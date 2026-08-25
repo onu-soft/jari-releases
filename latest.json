@@ -1,10 +1,10 @@
 {
   "version": "0.0.17",
   "notes": "자리 v0.0.17",
-  "pub_date": "2026-08-25T07:34:33Z",
+  "pub_date": "2026-08-25T07:48:32Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaHRaWmJTU2UrRFRIUE1ON3dUdGNHcW4wZWlhQ3AxTHcrMGRhc0MxK3BPdHluY2FSeVdjVnM3VVlUSU4xRFd4SXRsRHJiN1U5VEZLOW1oTWJXRjRvRnJzakZuNmJWandrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjQyOTYyCWZpbGU667aA66qoIOyekOumrC5hcHAudGFyLmd6CnBTZkxPeCt6L2tSTWhkcml6c1FtUldUUisvdXAzZ0NHK090OHNjdmlYL2czSmdhWXNiZ1VpMzhWWmxCN3UvQVNkRk9UNXNsNjhDWEZVblMyanVlZkF3PT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaHRaWmJTU2UrRGVHUFhabHhtWlpHeWVYWEpIWFhNYXJSR2sxUUdQU1crTE1neWI4NzNIY3d4eEdtRSsvNjRJRFA3M1Nibmp1ZVZ3WTNkVnlxcExjdU9zckRNYkc1TXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjQzOTAyCWZpbGU667aA66qoIOyekOumrC5hcHAudGFyLmd6CklFY1liaDdRZnllVk1xTGVkNDhiSjU1RElxa1pOS0NselBoVkFkK0luL2ptb3lJdTRpM0NLbVErUDM1QzZQK2k0MW11VmdXeGExNkFBcXZRUEZVbkRBPT0K",
       "url": "https://github.com/onu-soft/jari-releases/releases/download/v0.0.17/Jari-Parent-mac-0.0.17.app.tar.gz"
     },
     "windows-x86_64": {
