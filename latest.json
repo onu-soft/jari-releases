@@ -1,10 +1,10 @@
 {
   "version": "0.0.24",
   "notes": "자리 v0.0.24",
-  "pub_date": "2026-08-26T01:33:23Z",
+  "pub_date": "2026-08-26T01:35:54Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaHRaWmJTU2UrRFJOdHlqdjFjL2o3QkJiNzR1Y1oyamRIRUhPN1RZSjE1MjYrNDk2THRmZXh6dThnM0lydEF3L0s5QmVSQ09GQUs2aHhOUE1MZm1IS0hjelhYejdMQUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzA3NDgzCWZpbGU667aA66qoIOyekOumrC5hcHAudGFyLmd6CktmcWZ2c21nRCtrTzBVcU9UU0tkUDdaL1dwVytPQUw2dXBUM1lLcHF2d1FaNEpKdUE1cXF4UnNMVkp3NnZUc0dGVDdhRjUxSVlaNGNRUFNvcjVWakNRPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaHRaWmJTU2UrRFd5dHB0QkRGbFpCMGorTWt0ZHJjRkRwRnhoR25uZGVOUTJjWU40cWJZZWZ4dHE3bkdiakNkdzlnSENpdXpVODd3c243d1F3U1N6bnVqVy85TE9LSEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzA4MDcwCWZpbGU667aA66qoIOyekOumrC5hcHAudGFyLmd6CmZ4aWJNTDJpdHlBWTZsc3BRU2RpNVlLRFQyOFd1ZThpUU1NRGprUXJhQ1c1RlpQMjRUeEFod0F5bm5UODFTNmErR1V4bkwwNEJ2UWtqQzc4SUpEY0J3PT0K",
       "url": "https://github.com/onu-soft/jari-releases/releases/download/v0.0.24/Jari-Parent-mac-0.0.24.app.tar.gz"
     },
     "windows-x86_64": {
