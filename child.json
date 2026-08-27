@@ -1,14 +1,14 @@
 {
-  "version": "0.0.34",
-  "pub_date": "2026-08-27T04:30:00Z",
+  "version": "0.0.35",
+  "pub_date": "2026-08-27T06:11:17Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaHRaWmJTU2UrRGVtTUF5aFRBaTdGTU1BQ0JGY2VrZHBwS2ErWXUxaTg2T0tnZHpyWE9BbnhMUFl0RmM5MmpYYTliWkdFVlF1KzQ1dUwzeVVTZkJndnc2R2hsSjZqeFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODA0OTgxCWZpbGU6SmFyaS1DaGlsZFVwZGF0ZS13aW4tMC4wLjM0LnppcApnQlRzTmZ1b256Y3Vyemd4TEw3Ui9jWUJPWlA0TXdYZlBxNUJ3MWRKSFgyamU3TWdRSEI0cCtLdkZlckQ4TzBUUFBmcDFHOHRMbmJ1Ukk0Q1ZZU3JCdz09Cg==",
-      "url": "https://github.com/onu-soft/jari-releases/releases/download/v0.0.34/Jari-ChildUpdate-win-0.0.34.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaHRaWmJTU2UrRGRvK1pHOUIvVWFHVzhNME51cnBqa3VoWnc3MlIrQlF0Sks4TmZhQVY5eUNMbytUaUFqVHBmN3FLVEFIazNNVk9QVVB5SVZHVWVMUFdpczE1bjJjOWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODExMDU2CWZpbGU6SmFyaS1DaGlsZFVwZGF0ZS13aW4tMC4wLjM1LnppcApNWkVMY3ZpbEdaR1lJRm1YRDRYNGJIdW9iVUp2d3lnaGFocmF2Rm5wOUJ5WXE0U0Q3aVVzMWJOUlBGdnNmOWxJbU9WTERzdi9hd1hIRUNTWlE2ZEJDdz09Cg==",
+      "url": "https://github.com/onu-soft/jari-releases/releases/download/v0.0.35/Jari-ChildUpdate-win-0.0.35.zip"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaHRaWmJTU2UrRFhZcjFBUjFRYmp0TnNMTGo1V0xvUUdNek5zdk5PMUhScVhKdkJFdkQ2RGo0aUVxNkRwekpKSTVZSGk5d1lSRFY4OVliOVdBVytnMzltRlRhTUFmelFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODA0Nzg4CWZpbGU6SmFyaS1DaGlsZC1tYWMtMC4wLjM0LnppcAozMTY1TDZLbkJKSUN1czRGR1lpRm5xSSs2RVdZQjhraXdhWlV5TDV5SGk3RWZMM3dwZm9rYkdaTEtNcU8zOFdLZWNDRVpGTHBMaUFvQnQxWGxPRERBQT09Cg==",
-      "url": "https://github.com/onu-soft/jari-releases/releases/download/v0.0.34/Jari-Child-mac-0.0.34.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaHRaWmJTU2UrRFRQM2VONUR5TlUyYnBHRTMxYWRkWXRVS213TEhnaG41ZHZkRXd2WjE2NFExUWd0R0s2b1RBWWxLMDF6bE5mLzhmVTVYVXUvejl5cWVmK25LNlMvR3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODEwNzA5CWZpbGU6SmFyaS1DaGlsZC1tYWMtMC4wLjM1LnppcApFWHJPSCt4UlRNQUZ6RkJJT3FhSGhZT2lCMmVSdDN3VTFLanVUSEJlRWFpekxubzBjR0NxQnkvck16b2FBNUtRTEtmVjJGUCsxaW1KUCtDeE1FaTlDZz09Cg==",
+      "url": "https://github.com/onu-soft/jari-releases/releases/download/v0.0.35/Jari-Child-mac-0.0.35.zip"
     }
   }
 }
