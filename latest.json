@@ -1,15 +1,15 @@
 {
-  "version": "0.1.47",
-  "notes": "자리 v0.1.47",
-  "pub_date": "2026-10-25T06:27:07Z",
+  "version": "0.1.48",
+  "notes": "자리 v0.1.48",
+  "pub_date": "2026-10-27T11:44:57Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaHRaWmJTU2UrRFJRZ0taWkd0N2tsSzlKd0hFZlpuaVQyckY1QzlvUVk1MDUwbmJ1YTYzUDJyTWx0eFdaVzk0ZU1lOEV3RUg0LzQ1MDdDMy9EZTcwWEl5R0xPUXZoVEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTA0NDYwCWZpbGU667aA66qoIOyekOumrC5hcHAudGFyLmd6CXZlcnNpb246MC4xLjQ3ClFZYjZ2M1FSVG1sRU0zNDU0MHJBSEVjVkxXVC9raTNlcjRCZ2VFNjJJMXM0bHE3NXRVc0Y0Y01KSzFPOUlab093MWRzSll0MTJDckJvSHFOWDVuNUJRPT0K",
-      "url": "https://github.com/onu-soft/jari-releases/releases/download/v0.1.47/Jari-Parent-mac-0.1.47.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaHRaWmJTU2UrRFZWR2Z4UHAzVjhiK1phRUdHVFA1ZXpwb3ZlZW1jTlhJbXhPanlLOFNTc2Iwdmozb2g5NHhRczJHV3FMUTNwUFV6MUJKdWd1dHB3TEp4U21wdDltR1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTAwOTM3CWZpbGU667aA66qoIOyekOumrC5hcHAudGFyLmd6CXZlcnNpb246MC4xLjQ4ClVzUXBHZjdmdzRRWUc2aXdjZjVFSEJLU2dXbGFuZTFKL0VwZGNPL1VJQ0NvVFBYekdYYWE4TGZJKzU1STkrdDgxMFh5WWMvelNSOTdSY3RpZ3M2NUF3PT0K",
+      "url": "https://github.com/onu-soft/jari-releases/releases/download/v0.1.48/Jari-Parent-mac-0.1.48.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaHRaWmJTU2UrRFFqREFUeDZDcGVReDR4eGR5UkFPaXRoN2RWTkJyeUlabk0zTmkxNGYrRUFUcGgwdkk1dnhnTUpudGMzRHVNOHJnSEF0RmJlUm9uMzQ1ZGI0cTZ2aEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTA5MTQ2CWZpbGU667aA66qoIOyekOumrF8wLjEuNDdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS40NwpTeW1lSVlXYnIxdnRHTEozdW55cVRkc1hHNHVteCtxZDJRYnJ6S21VSlBtYzQzSmtDK1NESld5RmsyekRISkVmVzY2NFZCeUFtUmpYZGZCbENiMFhEdz09Cg==",
-      "url": "https://github.com/onu-soft/jari-releases/releases/download/v0.1.47/Jari-Parent-win-0.1.47.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaHRaWmJTU2UrRFZneVJyclIrT2xoelg0Zm9jZ1JWVEFzbGJFdktneEVycWRIQ3NnTGlyQTJWM0lHYkdKdERUelVHUC9kM21Tb0doNUdRU1E5WDV0ZitRNWpBdklvTGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTAxMTgzCWZpbGU667aA66qoIOyekOumrF8wLjEuNDhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS40OApDdldSNjd6M2Zhdm9Mbk95UzhRbFVYR2NDKy9wdjFJcFhYRFhQeWpCKzg1aWlPb1ROb0RjREVzVEg4ZWhvZGFvdzJ5cjNJYXRCWXMyU2p4WTJmdnZEQT09Cg==",
+      "url": "https://github.com/onu-soft/jari-releases/releases/download/v0.1.48/Jari-Parent-win-0.1.48.exe"
     }
   }
 }
